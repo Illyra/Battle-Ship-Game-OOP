@@ -5,11 +5,6 @@ class : CSCI 2421
 FINAL PROJECT
 due date 12/02/2019
 
-Organization:
-The organization of this project is all over the place(literally) I had used multiple header files to define
-my classes for the project.I had used a lot of constructors and inheritance for each of the classes.
-
-
 Description of the Program
 ***************************
 This program basically prints out the grid, and the ships that are placed.. It plays the 
